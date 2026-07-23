@@ -1,2 +1,3 @@
-# LucentWaves Mod minecraft mod
-## The BEST Minecraft mod EVER!!!!
+<p align="center">
+    <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="380">
+</p>
