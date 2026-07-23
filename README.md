@@ -1,2 +1,2 @@
-# LucentWaves-Mod-minecraft-mod-
-ok
+# LucentWaves Mod minecraft mod
+## The BEST Minecraft mod EVER!!!!
