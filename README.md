@@ -8,4 +8,6 @@
 
 ----
 
-hello
+<p style="text-align: centet;">
+    The BEST Minecraft mod made in MCreator
+</p>
